@@ -1,3 +1,5 @@
+## 流行的轮播图插件
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
